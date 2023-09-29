@@ -2,6 +2,9 @@
 
 Spotify Account Generator created using Python.
 
+# How to activate the premium account
+
+Once your account is generated, log into it and go to the "3 Month Free Premium trial" and there you go, you have now activate the premium version for the spotify account.
 
 ## Features
 
